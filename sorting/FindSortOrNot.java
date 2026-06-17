@@ -1,4 +1,3 @@
-package Arrays.sort;
 
 public class FindSortOrNot {
     public static void main(String[] args) {
